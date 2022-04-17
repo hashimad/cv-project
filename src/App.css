@@ -1,0 +1,23 @@
+:root{
+  --primary-color:#003d74;
+}
+.personal{
+  background-color: var(--primary-color);
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.top-header,.heading{
+  font-size: bold;
+  font-weight:bolder;
+}
+.heading{
+  color:var(--primary-color); 
+}
+.sub-heading{
+  font-weight:500;
+}
+.sub-heading-i{
+  font-style: italic;
+}
