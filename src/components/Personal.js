@@ -4,7 +4,7 @@ const Personal = () => {
   return (
     <div className="personal">
       <div className="container">
-          <p className="top-header">ABDULMUJIB A. Dayo</p>
+          <p className="top-header">ALADE A. Dayo</p>
           <p>hashimalade@gmail.com | 07033933279 </p>
       </div>
     </div>
